@@ -700,7 +700,7 @@ export const recentTransactions = [
     desc: 'Payment Sent',
     iconColor: '#03C9D7',
     iconBg: '#E5FAFB',
-    pcColor: 'red-600',
+    pcColor: 'text-red-600',
   },
 ];
 
